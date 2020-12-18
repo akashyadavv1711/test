@@ -1,17 +1,4 @@
-dsdfdffdfgdfgdfgfdgdfgmport javafx.application.*;
-import javafx.stage.*;
-import javafx.scene.*;
-import javafx.scene.canvas.*;
-import javafx.scene.control.*;
-import javafx.scene.image.*;
-import javafx.scene.layout.*;
-import javafx.scene.paint.*;
-import javafx.scene.shape.*;
-import javafx.scene.text.*;
-import javafx.collections.*;
-import javafx.event.*;
-import javafx.geometry.*;
-import java.io.*;
+AKASH AKASH AKASH AKAH
 public class Animation_ extends Application
 {
 	public static void main(String[] args) {
