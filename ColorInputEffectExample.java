@@ -1,4 +1,4 @@
-sdhfjdhfkkdhfghdfjghkdfgdfhgimport javafx.application.Application; 
+import javafx.Application; 
 import javafx.scene.Group; 
 import javafx.scene.Scene; 
 import javafx.scene.effect.ColorInput; 
